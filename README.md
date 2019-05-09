@@ -14,7 +14,7 @@ Make sure you have Node.js and npm installed. On MacOS, it is recommended to ins
 
 ## Switching Examples
 
-To switch which example is being rendered, edit index.js to change it.
+To switch which example is being rendered, edit `src/index.js` to change it.
 
 Example:
 
